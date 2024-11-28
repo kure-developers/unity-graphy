@@ -4,5 +4,5 @@
 
 	for version `3.0.6`
 	```csharp
-	"com.tayx.graphy": "https://github.com/wolf-org/graphy.git#3.0.6",
+	"com.tayx.graphy": "https://github.com/unity-package/graphy.git#3.0.6",
 	```
